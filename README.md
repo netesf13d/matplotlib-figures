@@ -4,7 +4,7 @@ Some matplotlib figures I made for my PhD. Feel free to use them as templates!
 
 * __atom manipulation scheme__. A scheme without plot. Illustrates the use of `matplotlib.path.Path` to make wavy lines.
   <p align="center">
-    <img src="https://github.com/netesf13d/matplotlib-figures/assets/166753273/6f3b309b-d33a-41eb-8b79-987eb3a2b42f" width="400" />
+    <img src="https://github.com/netesf13d/matplotlib-figures/assets/166753273/642304c3-cb11-4eff-bda0-ec7a9cb8d367" width="400" />
   </p>
 * __potential difference__. Cut views of the difference between two trapping potentials for atoms. Illustrates the use of colormaps and contours.
   <p align="center">
