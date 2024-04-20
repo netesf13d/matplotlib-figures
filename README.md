@@ -1,6 +1,6 @@
 ## Matplotlib figures
 
-Some matplotlib figures I made for my PhD. Feel free to use them as templates!
+Some python/matplotlib scripts I made to produce figures for my PhD. Feel free to use them as templates!
 
 * __atom manipulation scheme__. A scheme without plot. Illustrates the use of `matplotlib.path.Path` to make wavy lines.
   <p align="center">
